@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=imreal4023@naver.com)](https://solved.ac/imreal4023@naver.com)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ajdxjdrnfl)](https://solved.ac/ajdxjdrnfl)
 - 📫 How to reach me is to email me to zunghoon4023@gmail.com or imreal4023@naver.com
 
 <!---
