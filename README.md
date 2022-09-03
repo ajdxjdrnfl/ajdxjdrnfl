@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ajdxjdrnfl
-- 👀 I'm interesting in how to make application and how to make good recipe or .
-- 🌱 I’m currently learning spring_boot and android studio.
-- 💞️ I’m looking to collaborate on how to make application.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=imreal4023@naver.com)](https://solved.ac/imreal4023@naver.com)
 - 📫 How to reach me is to email me to zunghoon4023@gmail.com or imreal4023@naver.com
 
 <!---
