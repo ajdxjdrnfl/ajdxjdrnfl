@@ -1,7 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ajdxjdrnfl)](https://solved.ac/ajdxjdrnfl)
 
 ### Experience
-> **NCSOFT**, Software Engineer, Intern at AI Framework Team, Sep. 2023 - Dec. 2023
+> **NCSOFT**, Software Engineer, Temporary Worker at AI Framework Team, Sep. 2023 - Dec. 2023
 >
 > Participate in Digital Human(DH) Project
 > - Develop Debugging tools for networking system
@@ -9,7 +9,7 @@
 > - Managed Build System 
 > - Improved/Optimized Animation System of Digital Human
 
-> **NCSOFT**, Software Engineer, Temporary Worker at AI Framework Team, Mar. 2023 - Aug. 2023
+> **NCSOFT**, Software Engineer, Intern at AI Framework Team, Mar. 2023 - Aug. 2023
 > - Develop Data generation tools with Unreal Engine
 
 > **Korea University**, Seoul, Korea, Bachelor's degree of Computer Science, March. 2018 - Mar. 2024
