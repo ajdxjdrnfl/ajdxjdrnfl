@@ -16,12 +16,12 @@
 
 ## Interested in
 > - Server Programming
-> - - Multithread Programming
+>   - Multithread Programming
 >   - Server Engineering
 >   - Security
 >   - SpringBoot
 > - Game Programming
-> - - Unreal Engine 5
+>   - Unreal Engine 5
 >   - C++
 >   - DirectX 11
 >   - AI Engineering
