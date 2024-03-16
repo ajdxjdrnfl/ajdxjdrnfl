@@ -31,7 +31,7 @@
 
 ### Links
 > <a href="https://ajdxjdrnfld.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-FFFFFF?style=flat&logo=tistory&logoColor=FF7F00"/></a>
-> <a target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=0A66C2"/></a>
+> <a href="https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%ED%95%9C-902749268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=0A66C2"/></a>
 > 
 <!---
 ajdxjdrnfl/ajdxjdrnfl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
